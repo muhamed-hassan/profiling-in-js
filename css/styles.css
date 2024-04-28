@@ -1,0 +1,11 @@
+.active-environment-label {
+    font-weight: bold;
+}
+
+.dns-host-of-service-1-label {
+    font-weight: bold; margin-top: 25px;
+}
+
+.displayed-value {
+    color: green;
+}
