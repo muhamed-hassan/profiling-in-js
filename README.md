@@ -1,4 +1,4 @@
-#### Please visit the wiki for more info https://github.com/muhamed-hassan/profiling-in-js/wiki
+#### Please visit the [wiki](https://github.com/muhamed-hassan/profiling-in-js/wiki) for more info
 
 ***
 
